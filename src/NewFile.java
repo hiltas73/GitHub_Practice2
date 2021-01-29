@@ -1,3 +1,3 @@
 public class NewFile {
-    //some code 
+    //some code
 }
